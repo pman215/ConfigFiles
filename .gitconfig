@@ -1,0 +1,9 @@
+[user]
+	name = Erick Andrade
+	email = erick@scribd.com
+[core]
+	editor = vim
+[color]
+	ui = true
+[http]
+	sslVerify = true 
